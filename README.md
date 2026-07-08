@@ -1,4 +1,4 @@
-### Objetivo del proyecto:
+## 🎯 ### Objetivo del proyecto:
 
 Identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
 
@@ -35,7 +35,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 *Ccómo ejecutar el notebook:**
 
-### Abrir en Google Colab.
+### Abrir en Google Colab:
 
 1. Ve al archivo `.ipynb` dentro de este repositorio.
   
@@ -46,7 +46,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 > No necesitas instalar Python ni librerías localmente; Colab ya las incluye.
 
 
-**Guía de reproducción:**
+### Guía de reproducción:
 
 1. Asegúrate de tener los datasets (`plans.csv`, `users_latam.csv`, `usage.csv`) en la misma carpeta que el notebook, o en la ruta indicada dentro del código.
 2. Ejecuta las celdas **en orden secuencial**, ya que algunas dependen de variables o transformaciones definidas en pasos anteriores (por ejemplo, la limpieza de `NaT` y sentinels debe correr antes del análisis de segmentos).
