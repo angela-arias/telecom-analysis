@@ -38,7 +38,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
  
 #### ⚙️ Abrir en Google Colab:
 
-1. Ve al archivo `.ipynb` dentro de este repositorio. 📓 [Ver notebook del análisis](telecom-analysis.ipynb)
+1. Ve al archivo `.ipynb` dentro de este repositorio. 📓 [Ver notebook del análisis](S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
   
 2. Haz clic en el botón **"Open in Colab"** (o copia la URL del notebook y pégala en [https://colab.research.google.com](https://colab.research.google.com) → pestaña "GitHub").
    
