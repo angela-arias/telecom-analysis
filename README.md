@@ -34,7 +34,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 
 
- ## 🚀 Cómo ejecutar el notebook 
+ ## 🚀 Cómo ejecutar el notebook: 
  
 #### ⚙️ Abrir en Google Colab:
 
@@ -58,7 +58,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 
 
-## 📊 Resultados y conclusiones
+## 📊 Resultados y conclusiones:
 
 ### Problemas de calidad de datos encontrados:
 
@@ -79,7 +79,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 - 🟡 Uso medio: 2943 usuarios  (73.6%)
 - 🔴 Alto uso: 279 usuarios (7.0%)
 
-## Por plan:
+## 📞 Por plan
 - 📞 Básico: 64.9% de los usuarios
 - 📞 Premium: 35.1% de los usuarios
 
@@ -101,7 +101,7 @@ Revisar calidad de captura de city y reg_date: un 11.7% de nulos en ciudad limit
 
 -churn_date con 88.4% de nulos es información valiosa poco explotada: se recomienda un análisis específico de churn cruzando plan, edad y nivel de uso para entender qué perfil cancela más.
 
-## ⚠️ Limitaciones
+## ⚠️ Limitaciones:
 
 -El análisis se basa en datos hasta 2024; no captura tendencias más recientes.
 
