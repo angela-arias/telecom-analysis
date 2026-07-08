@@ -63,7 +63,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 ### Problemas de calidad de datos encontrados:
 
 
-
+![texto alternativo](tabla)
 
 
 ## Segmentacóon de usuarios:
@@ -87,7 +87,7 @@ La distribución de edad es prácticamente la misma en ambos planes, lo que sugi
 
 ## Gráficos
 
-
+![Distribución minutos de llamada](gráfico 1.png)
 
 **Insight:** La distribución tiene un sesgo marcado hacia la derecha. La mayoría de los usuarios consume entre 5 y 30 minutos, pero existe una cola que se extiende hasta más de 150 minutos, confirmando la presencia de un grupo pequeño de usuarios con consumo muy por encima del resto. Este patrón se repite en ambos planes (Básico y Premium).
 
