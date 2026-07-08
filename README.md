@@ -63,7 +63,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 ### Problemas de calidad de datos encontrados:
 
 
-![texto alternativo](![texto alternativo](URL_de_la_imagen))
+![Ver](tabla.png) 
 
 
 ## Segmentacóon de usuarios:
@@ -86,20 +86,19 @@ La distribución de edad es prácticamente la misma en ambos planes, lo que sugi
 
 
 ## Gráficos
-
-![Distribución minutos de llamada](gráfico 1.png)
+![ver_1](gráfico_1.png) 
 
 **Insight:** La distribución tiene un sesgo marcado hacia la derecha. La mayoría de los usuarios consume entre 5 y 30 minutos, pero existe una cola que se extiende hasta más de 150 minutos, confirmando la presencia de un grupo pequeño de usuarios con consumo muy por encima del resto. Este patrón se repite en ambos planes (Básico y Premium).
 
 ---
 
-
+![Ver_2 ](gráfico_2.png) 
 
 **Insight:** El boxplot confirma visualmente lo observado en el histograma: existen 109 outliers (2.73% de los usuarios), con un límite superior de 61.86 minutos según el método IQR. Estos valores no se consideran errores de datos, sino usuarios de alto consumo real.
 
 ---
 
-
+![Ver_3 ](gráfico_3.png) 
 
 **Insight:** El 73.6% de los usuarios (2,943) se concentra en "Uso medio", mientras que "Bajo uso" representa el 19.5% (778) y "Alto uso" solo el 7.0% (279). Esto indica que la base de clientes es mayoritariamente moderada en su consumo, con un segmento pequeño pero valioso de alto uso.
 
