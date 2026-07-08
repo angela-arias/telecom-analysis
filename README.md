@@ -63,7 +63,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 ### Problemas de calidad de datos encontrados:
 
 
-![texto alternativo](tabla)
+![texto alternativo](![texto alternativo](URL_de_la_imagen))
 
 
 ## Segmentacóon de usuarios:
