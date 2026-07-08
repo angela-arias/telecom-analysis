@@ -5,37 +5,38 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 ## 🗂️ Fuentes de datos:
 
--plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
+1. plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
 
--users_latam.csv: información de clientes: edad, ciudad, fecha de registro, plan contratado.
+2. users_latam.csv: información de clientes: edad, ciudad, fecha de registro, plan contratado.
 
--usage.csv: el detalle de uso real: llamadas (duración) y mensajes (longitud).
+3. usage.csv: el detalle de uso real: llamadas (duración) y mensajes (longitud).
 
 
 ## 🔍 Las etapas del análisis realizadas:
 
--Cargar y explorar los tres datasets.
+1. Cargar y explorar los tres datasets.
 
--Identificar los problemas de calidad de los datos.
+2. Identificar los problemas de calidad de los datos.
 
--Detectar valores invalidos o sentinels.
+3. Detectar valores invalidos o sentinels.
 
--Revisar y estandarizar fechas.
+4. Revisar y estandarizar fechas.
 
--Limpiar datos.
+5. Limpiar datos.
 
--Resumen estadístico.
+6. Resumen estadístico.
 
--Visualizar distribuciones.
+7. Visualizar distribuciones.
 
--Segmentar clientes.
+8. Segmentar clientes.
 
--Insight ejecutivo.
+9. Insight ejecutivo.
 
 
-*Ccómo ejecutar el notebook:**
 
-## 🚀 Abrir en Google Colab:
+ 🚀 Cómo ejecutar el notebook 
+ 
+## ⚙️ Abrir en Google Colab:
 
 1. Ve al archivo `.ipynb` dentro de este repositorio.
   
@@ -44,6 +45,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 3. Una vez abierto, ejecuta las celdas en orden desde el menú **Runtime > Run all**.
 
 > No necesitas instalar Python ni librerías localmente; Colab ya las incluye.
+
 
 
 ## 📋 Guía de reproducción:
