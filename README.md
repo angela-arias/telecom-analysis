@@ -104,7 +104,7 @@ La distribución de edad es prácticamente la misma en ambos planes, lo que sugi
 
 ---
 
-![Ver_4 ](grafico_4.png) 
+![Ver_4 ](grafico_4.JPG) 
 
 **Insight:** Los adultos (30-59 años) son el grupo predominante con 50.5% (2,018), seguidos por adultos mayores (60+) con 30.6% (1,222) y jóvenes (<30) con 19.0% (760). Combinado con el hallazgo de que la edad no varía entre planes, esto sugiere que la segmentación por edad no está impulsando la elección de plan.
 
