@@ -34,9 +34,9 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 
 
- 🚀 Cómo ejecutar el notebook 
+ ## 🚀 Cómo ejecutar el notebook 
  
-## ⚙️ Abrir en Google Colab:
+#### ⚙️ Abrir en Google Colab:
 
 1. Ve al archivo `.ipynb` dentro de este repositorio.
   
@@ -51,5 +51,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 ## 📋 Guía de reproducción:
 
 1. Asegúrate de tener los datasets (`plans.csv`, `users_latam.csv`, `usage.csv`) en la misma carpeta que el notebook, o en la ruta indicada dentro del código.
+   
 2. Ejecuta las celdas **en orden secuencial**, ya que algunas dependen de variables o transformaciones definidas en pasos anteriores (por ejemplo, la limpieza de `NaT` y sentinels debe correr antes del análisis de segmentos).
+   
 3. Los resultados principales (segmentación por edad, nivel de uso, y detección de outliers) se generan automáticamente al final del notebook.
