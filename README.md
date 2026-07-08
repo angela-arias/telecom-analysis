@@ -62,7 +62,6 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 ### Problemas de calidad de datos encontrados:
 
-<img width="746" height="362" alt="image" src="https://github.com/user-attachments/assets/c3374b1d-9646-4b95-87bd-065ceddedb9b" />
 
 
 
@@ -88,25 +87,25 @@ La distribución de edad es prácticamente la misma en ambos planes, lo que sugi
 
 ## Gráficos
 
-<img width="459" height="354" alt="image" src="https://github.com/user-attachments/assets/398c6e43-626f-44b7-94ba-193b91e68dd0" />
+
 
 **Insight:** La distribución tiene un sesgo marcado hacia la derecha. La mayoría de los usuarios consume entre 5 y 30 minutos, pero existe una cola que se extiende hasta más de 150 minutos, confirmando la presencia de un grupo pequeño de usuarios con consumo muy por encima del resto. Este patrón se repite en ambos planes (Básico y Premium).
 
 ---
 
-<img width="429" height="274" alt="image" src="https://github.com/user-attachments/assets/13d0b1b9-e30b-4185-b01a-03f7ec32c96e" />
+
 
 **Insight:** El boxplot confirma visualmente lo observado en el histograma: existen 109 outliers (2.73% de los usuarios), con un límite superior de 61.86 minutos según el método IQR. Estos valores no se consideran errores de datos, sino usuarios de alto consumo real.
 
 ---
 
-<img width="462" height="350" alt="image" src="https://github.com/user-attachments/assets/dc77b28f-7395-413b-b2f1-a544f441632e" />
+
 
 **Insight:** El 73.6% de los usuarios (2,943) se concentra en "Uso medio", mientras que "Bajo uso" representa el 19.5% (778) y "Alto uso" solo el 7.0% (279). Esto indica que la base de clientes es mayoritariamente moderada en su consumo, con un segmento pequeño pero valioso de alto uso.
 
 ---
 
-<img width="471" height="359" alt="image" src="https://github.com/user-attachments/assets/0fa6b9d1-b794-471f-b388-faa30e683f70" />
+
 
 **Insight:** Los adultos (30-59 años) son el grupo predominante con 50.5% (2,018), seguidos por adultos mayores (60+) con 30.6% (1,222) y jóvenes (<30) con 19.0% (760). Combinado con el hallazgo de que la edad no varía entre planes, esto sugiere que la segmentación por edad no está impulsando la elección de plan.
 
